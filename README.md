@@ -91,7 +91,3 @@ For feedback or collaboration, reach out at:
 ---
 
 ⭐ **If you found this project useful, consider giving it a star!** ⭐
-
-```
-
-```
