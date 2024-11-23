@@ -46,11 +46,6 @@ Ensure you have the following installed:
    OPENAI_API_KEY=your-api-key-here
    ```
 
-4. Run the script:
-   ```bash
-   python main.py
-   ```
-
 ---
 
 ## ✨ Features
